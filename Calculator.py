@@ -6,5 +6,7 @@
     This program was written on date 28 November 2022.
 '''
 num1 = int(input("Enter 1st number here: "))
-oper = 
+oper = input("Enter the operator")
 num2 = int(input("Enter 2nd number here: "))
+ans = num1 + num2
+print(ans)
